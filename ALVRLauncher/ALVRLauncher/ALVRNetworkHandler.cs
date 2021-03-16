@@ -15,18 +15,14 @@ namespace ALVRLauncher
         public const string ALVR_LOCAL_IP = "0.0.0.0";
         public const int ALVR_CONTROL_PORT = 9943;
 
-        private bool SocketsActive;
+        private bool SocketsActive = false;
         private UdpClient Udp;
         private Task<UdpReceiveResult> CurrentRecieve;
         private Process AlvrProcess;
 
-        public ALVRNetworkHandler()
-        {
-            SocketsActive = false;
-        }
-
         public void Run()
         {
+            // literally just loop forever lol
             Task.Run(() => { while (true) Think(); });
         }
 
