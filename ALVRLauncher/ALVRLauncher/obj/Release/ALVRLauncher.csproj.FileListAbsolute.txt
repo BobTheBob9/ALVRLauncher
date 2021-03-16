@@ -1,0 +1,9 @@
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\bin\Release\ALVRLauncher.exe.config
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\bin\Release\ALVRLauncher.exe
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\bin\Release\ALVRLauncher.pdb
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.csprojAssemblyReference.cache
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.Properties.Resources.resources
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.csproj.GenerateResource.cache
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.csproj.CoreCompileInputs.cache
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.exe
+C:\Users\bobthebob\Documents\GitHub\ALVRLauncher\ALVRLauncher\ALVRLauncher\obj\Release\ALVRLauncher.pdb
